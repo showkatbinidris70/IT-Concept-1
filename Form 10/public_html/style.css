@@ -1,0 +1,24 @@
+#mainDiv{
+    width: 80%;
+    height: 700px;
+    background: antiquewhite;
+    margin: 0 auto;
+}
+.row{
+    width: 100%;
+    height: 100px;
+    background: pink;
+    
+}
+.leftcol{
+    width: 30%;
+    height: 500px;
+    background: rose;
+    float: left;
+}
+.rightcol{
+    width: 70%;
+    height: 500px;
+    background: brown;
+    float: left;
+}
